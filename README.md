@@ -1,3 +1,11 @@
+# JSONデータのライセンス
+## データソース
+© 2021 Globalization Design Institute CC BY-NC-SA 4.0
+制作者：合同会社グローバリゼーションデザイン研究所
+https://progeigo.org/
+## JSON形式への編集
+T.Shinohara
+https://gist.github.com/ShinoharaTa
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
