@@ -4,7 +4,7 @@
 制作者：合同会社グローバリゼーションデザイン研究所
 https://progeigo.org/
 ## JSON形式への編集
-T.Shinohara
+T.Shinoharaさん
 https://gist.github.com/ShinoharaTa
 # Getting Started with Create React App
 
